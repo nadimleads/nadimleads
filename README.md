@@ -1,8 +1,10 @@
-## Hi 👋 I'm Nadim Zubary
+<p align="center">
+  <h2 align="center">Hello, this is Nadim N. Zubary</h2>
+  <p align="center"><b>Software Engineer | Flutter | Firebase | Dart | Python</b></p>
+  <p align="center">Loves solving real-world problems with tech-driven solutions!</p>
+</p>
 
-**Software Engineer | Flutter | Firebase | Dart | Python | iOS | Android | Web Apps**
-
-An Engineer who loves solving real-world problems with tech-driven solutions!!
+---
 
 ### 🛠 Technical Skills
 
@@ -14,40 +16,29 @@ An Engineer who loves solving real-world problems with tech-driven solutions!!
 - Hive (Local persistence)
 
 **Tools**
-- Git, GitHub, VS Code, Canva, OpenAI, Gork
+- Git, GitHub, VS Code  
+- AI-assisted development (OpenAI)
 
 **Engineering Practices**
-- SDLC fundamentals
-- Clean & scalable architecture
-- Error-defensive coding
-- Performance optimization
-- Clean documentation
+- SDLC fundamentals  
+- Clean & scalable architecture  
+- Error-defensive coding  
+- Performance optimization  
+- Clean documentation  
 
 ---
 
-### Research & Publications
-📄 **IEEE Published Research Paper (First Author)**  
-**Automated Convict Identification Through Machine Learning-Based Facial Recognition**  
+### 📄 Research & Publications
+**IEEE Published Research Paper (First Author)**  
+*Automated Convict Identification Through Machine Learning-Based Facial Recognition*  
 Published on **IEEE Xplore**
 
 ---
 
-### 💼 Professional Experience
-
-**Full-Time Self-Directed Software Engineer**  
-*Professional Development | Jan 2025 – Present*
-
-
 ### 🔧 Tech Stack
-![Tech Stack](https://skillicons.dev/icons?i=flutter,dart,python,firebase,sqlite,git,github,vscode,opencv)
-
----
-
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nadimleads&show_icons=true&theme=dark)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nadimleads&theme=dark)
+![Tech Stack](https://skillicons.dev/icons?i=flutter,dart,python,firebase,git,github,vscode,opencv)
 
 ---
 
 ### 📫 Contact
-📧 **Email:** nadim.nzl98@gmail.com  
+📧 **Email:** nadim.nzl98@gmail.com
