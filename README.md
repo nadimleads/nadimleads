@@ -70,6 +70,6 @@
     <img src="https://cdn.simpleicons.org/androidstudio/3DDC84" height="30"/>
   </a>
   <a href="https://www.jetbrains.com/pycharm/" target="_blank">
-    <img src="https://cdn.simpleicons.org/pycharm/currentColor" height="28"/>
+    <img src="https://skillicons.dev/icons?i=pycharm" height="30"/>
   </a>
 </p>
