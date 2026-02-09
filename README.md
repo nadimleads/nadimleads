@@ -26,10 +26,9 @@
 ### 📄 Research & Publications
 **IEEE Published Research Paper (Thesis)**  
 **"Automated Convict Identification Through Machine Learning-Based Facial Recognition"**
-—Published on **IEEE Xplore**
+— Published on **IEEE Xplore**
 <p>
   <a href="https://ieeexplore.ieee.org/abstract/document/10796255" target="_blank">
-    link:
     <img src="https://cdn.simpleicons.org/ieee/currentColor" height="60"/>
   </a>
 </p>
