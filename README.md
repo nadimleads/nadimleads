@@ -34,7 +34,7 @@
 Published on **IEEE Xplore**
 Please Click the link Bellow to view that:
 <a href="https://ieeexplore.ieee.org/abstract/document/10796255" target="_blank">
-  <img src="https://cdn.simpleicons.org/ieee/currentColor" height="40"/>
+  <img src="https://cdn.simpleicons.org/ieee/currentColor" height="60"/>
 </a>
 
 ---
@@ -42,34 +42,34 @@ Please Click the link Bellow to view that:
 ### 🔧 Tech Stack
 <p>
   <a href="https://flutter.dev" target="_blank">
-    <img src="https://cdn.simpleicons.org/flutter/currentColor" height="40"/>
+    <<img src="https://skillicons.dev/icons?i=flutter" height="10"/>
   </a>
   <a href="https://dart.dev" target="_blank">
-    <img src="https://cdn.simpleicons.org/dart/0175C2" height="40"/>
+    <img src="https://skillicons.dev/icons?i=dart" height="10"/>
   </a>
   <a href="https://www.python.org" target="_blank">
-    <img src="https://cdn.simpleicons.org/python/3776AB" height="40"/>
+    <img src="https://skillicons.dev/icons?i=python" height="10"/>
   </a>
   <a href="https://firebase.google.com" target="_blank">
-    <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="40"/>
+    <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="10"/>
   </a>
   <a href="https://git-scm.com" target="_blank">
-    <img src="https://cdn.simpleicons.org/git/F05032" height="40"/>
+    <img src="https://cdn.simpleicons.org/git/F05032" height="10"/>
   </a>
   <a href="https://github.com" target="_blank">
-    <img src="https://cdn.simpleicons.org/github/181717" height="40"/>
+    <img src="https://skillicons.dev/icons?i=github" height="10"/>
   </a>
   <a href="https://code.visualstudio.com" target="_blank">
-    <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="40"/>
+    <img src="https://skillicons.dev/icons?i=vscode" height="10"/>
   </a>
   <a href="https://opencv.org" target="_blank">
-    <img src="https://cdn.simpleicons.org/opencv/5C3EE8" height="40"/>
+     <img src="https://skillicons.dev/icons?i=opencv" height="10"/>
   </a>
   <a href="https://developer.android.com/studio" target="_blank">
-    <img src="https://cdn.simpleicons.org/androidstudio/3DDC84" height="40"/>
+    <img src="https://cdn.simpleicons.org/androidstudio/3DDC84" height="10"/>
   </a>
   <a href="https://www.jetbrains.com/pycharm/" target="_blank">
-    <img src="https://cdn.simpleicons.org/pycharm/000000" height="40"/>
+    <img src="https://cdn.simpleicons.org/pycharm/000000" height="10"/>
   </a>
 </p>
 
