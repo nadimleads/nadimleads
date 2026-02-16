@@ -20,7 +20,7 @@
 - AI-Tools (OpenAI, Gork)
 
 **Engineering Practices**
-- SDLC, Clean and scalable architecture, Error-defensive coding, Performance optimization & Clean documentation  
+- Focused on SDLC, Clean and scalable architecture, Error-defensive coding, Performance optimization & Clean documentation
 
 ---
 ### 📄 Research & Publications
@@ -32,7 +32,6 @@
     <img src="https://cdn.simpleicons.org/ieee/currentColor" height="60"/>
   </a>
 </p>
-
 ---
 
 ### 📫 Contact
