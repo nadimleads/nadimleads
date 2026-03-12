@@ -70,4 +70,7 @@
   <a href="https://www.jetbrains.com/pycharm/" target="_blank">
     <img src="https://skillicons.dev/icons?i=pycharm" height="30"/>
   </a>
+  <a href="https://hive.apache.org/" target="_blank">
+    <img src="https://upload.wikimedia.org" width="30" />
+  </a>
 </p>
